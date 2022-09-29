@@ -1,3 +1,0 @@
-# IBM-Project-7769-1658898781
-Skill / Job Recommender Application
-This cloud application is developed using ibm cloud using all the languages python,css,html,js and many more...
