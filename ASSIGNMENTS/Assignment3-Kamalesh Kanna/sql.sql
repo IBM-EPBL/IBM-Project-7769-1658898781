@@ -10,8 +10,8 @@ CREATE TABLE IF NOT EXISTS `accounts` (
 select * from accounts;
 select * from accounts;
 
-INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (5, 'ramya', 'ramya1', 'ramya@ramya1.com');
-INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (6, 'subha', 'subha1', 'subha@subha1.com');
+INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (5, 'kamalesh', 'kanna1', 'kamalesh@gmail.com');
+INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (6, 'aravind', 'aravind1', 'aravind@aravind1.com');
 select * from accounts;
 update accounts set password='ramya@15' where id=5;
 delete from accounts where id=6;
