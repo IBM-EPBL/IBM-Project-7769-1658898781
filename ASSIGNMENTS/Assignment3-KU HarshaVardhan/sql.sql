@@ -13,6 +13,6 @@ select * from accounts;
 INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (5, 'harsha', 'vardhan', 'kuharshan@gmail.com');
 INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES (6, 'aravind', 'aravind1', 'aravindt@gmail.com');
 select * from accounts;
-update accounts set password='ramya@15' where id=5;
+update accounts set password='harshavardhan' where id=5;
 delete from accounts where id=6;
 select * from accounts;
